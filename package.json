@@ -1,0 +1,26 @@
+{
+  "name": "polyomino",
+  "version": "1.0.0",
+  "description": "A collection of tools related to working with polyominoes",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneralYouri/polyomino.git"
+  },
+  "keywords": [
+    "polyomino"
+  ],
+  "author": "Youri Bok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeneralYouri/polyomino/issues"
+  },
+  "homepage": "https://github.com/GeneralYouri/polyomino#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
